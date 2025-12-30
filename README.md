@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**Leeyudev/leeyudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Leonel, a BSIT student based in the Philippines.
 
-Here are some ideas to get you started:
+I’m learning how to build software from the ground up—starting with programming fundamentals, logic, and clean code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I’m focused on Java, Html, CSS, and slowly getting into JavaScript.
+
+This is a fresh profile where I’ll be uploading small projects, practice builds, and experiments as I learn.
+
+Everything here is built by me as part of the process, no copy/paste templates.
+
+**🔗 Tools & Tech**
+• Programming fundamentals (logic, data structures, clean code)
+• Web basics (HTML, CSS, JavaScript)
+• Git & GitHub workflows
+• How software actually works under the hood
+
+**A Bit About Me**
+
+• BSIT student at University of Mindanao
+• Big on self-discipline, fitness, and long-term growth
+• Learning programming from zero and documenting the journey
+• I like building things that are simple, practical, and actually work

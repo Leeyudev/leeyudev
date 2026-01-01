@@ -2,8 +2,6 @@
 
 I’m Leonel, a BSIT student based in the Philippines.
 
-I’m learning how to build software from the ground up—starting with programming fundamentals, logic, and clean code.
-
 Right now I’m focused on Java, Html, CSS, and slowly getting into JavaScript.
 
 This is a fresh profile where I’ll be uploading small projects, practice builds, and experiments as I learn.
